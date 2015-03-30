@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="73d136e2-ce7e-45f1-b24f-57eb077686a1" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/css/agency.css" afterPath="$PROJECT_DIR$/_includes/css/agency.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/modal2.html" afterPath="$PROJECT_DIR$/_includes/modal2.html" />
     </list>
     <ignored path="rominger.github.io.iws" />
@@ -39,8 +40,18 @@
       <file leaf-file-name="modal2.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_includes/modal2.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.80335367" vertical-offset="119" max-vertical-offset="1564">
-              <caret line="38" column="32" selection-start-line="38" selection-start-column="32" selection-end-line="38" selection-end-column="32" />
+            <state vertical-scroll-proportion="0.7256098" vertical-offset="85" max-vertical-offset="1530">
+              <caret line="33" column="28" selection-start-line="33" selection-start-column="28" selection-end-line="33" selection-end-column="28" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="agency.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_includes/css/agency.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-7.785714" vertical-offset="37" max-vertical-offset="15419">
+              <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -79,7 +90,7 @@
       <file leaf-file-name="about.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_includes/about.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="670" max-vertical-offset="1326">
+            <state vertical-scroll-proportion="-18.692308" vertical-offset="364" max-vertical-offset="1326">
               <caret line="50" column="288" selection-start-line="50" selection-start-column="288" selection-end-line="50" selection-end-column="288" />
               <folding />
             </state>
@@ -99,6 +110,7 @@
         <option value="$PROJECT_DIR$/_includes/modal1.html" />
         <option value="$PROJECT_DIR$/_includes/modal3.html" />
         <option value="$PROJECT_DIR$/_includes/modal2.html" />
+        <option value="$PROJECT_DIR$/_includes/css/agency.css" />
       </list>
     </option>
   </component>
@@ -162,6 +174,24 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="_includes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="rominger.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="rominger.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="_includes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -389,14 +419,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_includes/about.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="670" max-vertical-offset="1326">
-          <caret line="50" column="288" selection-start-line="50" selection-start-column="288" selection-end-line="50" selection-end-column="288" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_includes/modal1.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="68" max-vertical-offset="1989">
@@ -413,10 +435,26 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/about.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-18.692308" vertical-offset="364" max-vertical-offset="1326">
+          <caret line="50" column="288" selection-start-line="50" selection-start-column="288" selection-end-line="50" selection-end-column="288" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/css/agency.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-7.785714" vertical-offset="37" max-vertical-offset="15419">
+          <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/_includes/modal2.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.80335367" vertical-offset="119" max-vertical-offset="1564">
-          <caret line="38" column="32" selection-start-line="38" selection-start-column="32" selection-end-line="38" selection-end-column="32" />
+        <state vertical-scroll-proportion="0.7256098" vertical-offset="85" max-vertical-offset="1530">
+          <caret line="33" column="28" selection-start-line="33" selection-start-column="28" selection-end-line="33" selection-end-column="28" />
           <folding />
         </state>
       </provider>
