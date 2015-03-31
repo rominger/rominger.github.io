@@ -7,6 +7,8 @@
 body {
     max-width: 100%;
     overflow-x: hidden;
+    font-size: 14px;
+    font-weight: 300;
     font-family: "Roboto Slab","Helvetica Neue",Helvetica,Arial,sans-serif;
     color: #{{ site.color.secondary-dark }};
 }
