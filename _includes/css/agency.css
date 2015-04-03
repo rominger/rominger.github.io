@@ -8,8 +8,8 @@ body {
     max-width: 100%;
     overflow-x: hidden;
     font-size: 14px;
-    font-weight: 300;
-    font-family: "Roboto Slab","Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-weight: 400;
+    font-family: "Open Sans","Helvetica Neue",Helvetica,Arial,sans-serif;
     color: #{{ site.color.secondary-dark }};
 }
 
@@ -196,9 +196,9 @@ fieldset[disabled] .btn-xl.active {
 }
 
 .caption {
-    font-family: "Merriweather","Helvetica Neue",Helvetica,Arial,sans-serif;
-    font-weight: 300;
-    font-size: 11px;
+    font-family: "Droid Serif","Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-weight: 400;
+    font-size: 12px;
     font-style: italic;
     text-align: center;
     margin-top: -25px;
