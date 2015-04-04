@@ -887,22 +887,22 @@ ul.social-buttons li a:active {
     content:"Wikipedia design proposal";
 }
 
-.portfolio-caption-wikipedia:before {
+.portfolio-caption-tagalong:before {
     font-family: "Source Sans Pro","Helvetica Neue",Helvetica,Arial,sans-serif;
     font-weight: 600;
     content:"Wikimedia TagAlong";
 }
-.portfolio-caption-wikipedia:before {
+.portfolio-caption-worldbank:before {
     font-family: "Source Sans Pro","Helvetica Neue",Helvetica,Arial,sans-serif;
     font-weight: 600;
     content:"Maps &amp; Embodied Interaction";
 }
-.portfolio-caption-wikipedia:before {
+.portfolio-caption-pinboard:before {
     font-family: "Source Sans Pro","Helvetica Neue",Helvetica,Arial,sans-serif;
     font-weight: 600;
     content:"Bulletin Board Application";
 }
-.portfolio-caption-wikipedia:before {
+.portfolio-caption-auroracle:before {
     font-family: "Source Sans Pro","Helvetica Neue",Helvetica,Arial,sans-serif;
     font-weight: 600;
     content:"Northern Lights Forecast";
