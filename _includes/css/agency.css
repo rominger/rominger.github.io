@@ -407,8 +407,8 @@ section h3.section-subheading {
     -webkit-transition: all ease .5s;
     -moz-transition: all ease .5s;
     transition: all ease .5s;
-    background: rgba(45, 0, 78, 0.80); /* Fallback when no plugin support */
-    background: rgba({{ site.color.primary | hex_to_rgb | join: ',' }}, .8);
+    background: rgba(45, 0, 78, 0.65); /* Fallback when no plugin support */
+    background: rgba({{ site.color.primary | hex_to_rgb | join: ',' }}, .65);
 }
 
 #portfolio .portfolio-item .portfolio-link .portfolio-hover:hover {
