@@ -407,8 +407,8 @@ section h3.section-subheading {
     -webkit-transition: all ease .5s;
     -moz-transition: all ease .5s;
     transition: all ease .5s;
-    background: rgba(218,4,62,.9); /* Fallback when no plugin support */
-    background: rgba({{ site.color.primary | hex_to_rgb | join: ',' }}, .9);
+    background: rgba(45, 0, 78, 0.80); /* Fallback when no plugin support */
+    background: rgba({{ site.color.primary | hex_to_rgb | join: ',' }}, .8);
 }
 
 #portfolio .portfolio-item .portfolio-link .portfolio-hover:hover {
@@ -881,31 +881,9 @@ ul.social-buttons li a:active {
     transform: rotate(90deg);
 }
 
-.portfolio-caption-wikipedia:before {
+.portfolio-cap{
     font-family: "Source Sans Pro","Helvetica Neue",Helvetica,Arial,sans-serif;
-    font-weight: 600;
-    content:"Wikipedia Design Proposal";
-}
-
-.portfolio-caption-tagalong:before {
-    font-family: "Source Sans Pro","Helvetica Neue",Helvetica,Arial,sans-serif;
-    font-weight: 600;
-    content:"Wikimedia TagAlong";
-}
-.portfolio-caption-worldbank:before {
-    font-family: "Source Sans Pro","Helvetica Neue",Helvetica,Arial,sans-serif;
-    font-weight: 600;
-    content:"Maps & Embodied Interaction";
-}
-.portfolio-caption-pinboard:before {
-    font-family: "Source Sans Pro","Helvetica Neue",Helvetica,Arial,sans-serif;
-    font-weight: 600;
-    content:"Bulletin Board Application";
-}
-.portfolio-caption-auroracle:before {
-    font-family: "Source Sans Pro","Helvetica Neue",Helvetica,Arial,sans-serif;
-    font-weight: 600;
-    content:"Northern Lights Forecast";
+    font-weight: 300;
 }
 
 ::-moz-selection {
