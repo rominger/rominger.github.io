@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="73d136e2-ce7e-45f1-b24f-57eb077686a1" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/css/agency.css" afterPath="$PROJECT_DIR$/_includes/css/agency.css" />
-    </list>
+    <list default="true" id="73d136e2-ce7e-45f1-b24f-57eb077686a1" name="Default" comment="" />
     <ignored path="rominger.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -26,20 +24,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="agency.css" pinned="false" current-in-tab="true">
+      <file leaf-file-name="agency.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_includes/css/agency.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.5683564" vertical-offset="6600" max-vertical-offset="15606">
+            <state vertical-scroll-proportion="-13.214286" vertical-offset="6600" max-vertical-offset="15606">
               <caret line="410" column="75" selection-start-line="410" selection-start-column="75" selection-end-line="410" selection-end-column="75" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="portfolio_grid.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="portfolio_grid.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_includes/portfolio_grid.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-10.115385" vertical-offset="77" max-vertical-offset="1564">
+            <state vertical-scroll-proportion="-0.013782542" vertical-offset="349" max-vertical-offset="1564">
               <caret line="20" column="58" selection-start-line="20" selection-start-column="58" selection-end-line="20" selection-end-column="58" />
               <folding />
             </state>
@@ -808,18 +806,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_includes/portfolio_grid.html">
+    <entry file="file://$PROJECT_DIR$/_includes/css/agency.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-10.115385" vertical-offset="77" max-vertical-offset="1564">
-          <caret line="20" column="58" selection-start-line="20" selection-start-column="58" selection-end-line="20" selection-end-column="58" />
+        <state vertical-scroll-proportion="-13.214286" vertical-offset="6600" max-vertical-offset="15606">
+          <caret line="410" column="75" selection-start-line="410" selection-start-column="75" selection-end-line="410" selection-end-column="75" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_includes/css/agency.css">
+    <entry file="file://$PROJECT_DIR$/_includes/portfolio_grid.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5683564" vertical-offset="6600" max-vertical-offset="15606">
-          <caret line="410" column="75" selection-start-line="410" selection-start-column="75" selection-end-line="410" selection-end-column="75" />
+        <state vertical-scroll-proportion="-0.013782542" vertical-offset="349" max-vertical-offset="1564">
+          <caret line="20" column="58" selection-start-line="20" selection-start-column="58" selection-end-line="20" selection-end-column="58" />
           <folding />
         </state>
       </provider>
