@@ -881,6 +881,13 @@ ul.social-buttons li a:active {
     transform: rotate(90deg);
 }
 
+.portfolio-caption-wikipedia:before {
+    content:"Wikipedia design proposal";
+}
+
+.fa-plus:before {
+    content: "\f067";
+}
 
 
 ::-moz-selection {
