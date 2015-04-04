@@ -7,15 +7,15 @@
 body {
     max-width: 100%;
     overflow-x: hidden;
-    font-size: 14px;
-    font-weight: 400;
+    font-size: 15px;
+    font-weight: 300;
     line-height: 1.5em;
     font-family: "Source Sans Pro","Helvetica Neue",Helvetica,Arial,sans-serif;
     color: #{{ site.color.secondary-dark }};
 }
 
 .text-muted {
-    color: #6e6e6e;
+    color: #{{ site.color.secondary-dark }};
 }
 
 .text-primary {
@@ -58,7 +58,7 @@ h5,
 h6 {
     text-transform: uppercase;
     font-family: "Source Sans Pro","Helvetica Neue",Helvetica,Arial,sans-serif;
-    font-weight: 700;
+    font-weight: 600;
 }
 
 h2,
@@ -88,7 +88,7 @@ h5{
     border-color: #{{ site.color.primary }};
     text-transform: uppercase;
     font-family: "Source Sans Pro","Helvetica Neue",Helvetica,Arial,sans-serif;
-    font-weight: 700;
+    font-weight: 600;
     color: #fff;
     background-color: #{{ site.color.primary }};
 }
@@ -140,7 +140,7 @@ fieldset[disabled] .btn-primary.active {
     text-transform: uppercase;
     font-family: "Source Sans Pro","Helvetica Neue",Helvetica,Arial,sans-serif;
     font-size: 18px;
-    font-weight: 700;
+    font-weight: 600;
     color: #fff;
     background-color: #{{ site.color.primary }};
 }
@@ -328,7 +328,7 @@ header .intro-text .intro-heading {
     text-transform: uppercase;
     font-family: "Source Sans Pro","Helvetica Neue",Helvetica,Arial,sans-serif;
     font-size: 50px;
-    font-weight: 700;
+    font-weight: 600;
     line-height: 50px;
 }
 
@@ -351,7 +351,7 @@ header .intro-text .intro-heading {
         text-transform: uppercase;
         font-family: "Source Sans Pro","Helvetica Neue",Helvetica,Arial,sans-serif;
         font-size: 75px;
-        font-weight: 700;
+        font-weight: 600;
         line-height: 75px;
     }
 }
@@ -728,28 +728,28 @@ section#contact .form-control:focus {
 section#contact::-webkit-input-placeholder {
     text-transform: uppercase;
     font-family: "Source Sans Pro","Helvetica Neue",Helvetica,Arial,sans-serif;
-    font-weight: 700;
+    font-weight: 600;
     color: #bbb;
 }
 
 section#contact:-moz-placeholder {
     text-transform: uppercase;
     font-family: "Source Sans Pro","Helvetica Neue",Helvetica,Arial,sans-serif;
-    font-weight: 700;
+    font-weight: 600;
     color: #bbb;
 }
 
 section#contact::-moz-placeholder {
     text-transform: uppercase;
     font-family: "Source Sans Pro","Helvetica Neue",Helvetica,Arial,sans-serif;
-    font-weight: 700;
+    font-weight: 600;
     color: #bbb;
 }
 
 section#contact:-ms-input-placeholder {
     text-transform: uppercase;
     font-family: "Source Sans Pro","Helvetica Neue",Helvetica,Arial,sans-serif;
-    font-weight: 700;
+    font-weight: 600;
     color: #bbb;
 }
 
