@@ -10,7 +10,7 @@ description: "Marcel Rominger's website."
 color:
   primary: EE033B
   secondary: DA043E
-  secondary-dark: 333
+  secondary-dark: 6e6e6e
 
 # Team names, titles and social links
 people:
