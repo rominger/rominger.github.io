@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="73d136e2-ce7e-45f1-b24f-57eb077686a1" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/head.html" afterPath="$PROJECT_DIR$/_includes/head.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/css/agency.css" afterPath="$PROJECT_DIR$/_includes/css/agency.css" />
     </list>
     <ignored path="rominger.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -29,8 +29,8 @@
       <file leaf-file-name="agency.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_includes/css/agency.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.5441176" vertical-offset="6600" max-vertical-offset="15606">
-              <caret line="410" column="75" selection-start-line="410" selection-start-column="75" selection-end-line="410" selection-end-column="75" />
+            <state vertical-scroll-proportion="0.38496932" vertical-offset="14794" max-vertical-offset="15606">
+              <caret line="885" column="18" selection-start-line="885" selection-start-column="18" selection-end-line="885" selection-end-column="18" />
               <folding />
             </state>
           </provider>
@@ -145,9 +145,9 @@
         <option value="$PROJECT_DIR$/_includes/modal3.html" />
         <option value="$PROJECT_DIR$/_includes/modal4.html" />
         <option value="$PROJECT_DIR$/css/font-awesome/css/font-awesome.css" />
-        <option value="$PROJECT_DIR$/_includes/css/agency.css" />
         <option value="$PROJECT_DIR$/_includes/portfolio_grid.html" />
         <option value="$PROJECT_DIR$/_includes/head.html" />
+        <option value="$PROJECT_DIR$/_includes/css/agency.css" />
       </list>
     </option>
   </component>
@@ -814,8 +814,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_includes/css/agency.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5441176" vertical-offset="6600" max-vertical-offset="15606">
-          <caret line="410" column="75" selection-start-line="410" selection-start-column="75" selection-end-line="410" selection-end-column="75" />
+        <state vertical-scroll-proportion="0.38496932" vertical-offset="14794" max-vertical-offset="15606">
+          <caret line="885" column="18" selection-start-line="885" selection-start-column="18" selection-end-line="885" selection-end-column="18" />
           <folding />
         </state>
       </provider>
