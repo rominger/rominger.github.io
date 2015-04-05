@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="73d136e2-ce7e-45f1-b24f-57eb077686a1" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/portfolio/pin_sketches.jpg" afterPath="$PROJECT_DIR$/img/portfolio/pin_sketches.jpg" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/modal4.html" afterPath="$PROJECT_DIR$/_includes/modal4.html" />
     </list>
     <ignored path="rominger.github.io.iws" />
@@ -70,8 +69,8 @@
       <file leaf-file-name="modal4.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_includes/modal4.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.47400612" vertical-offset="251" max-vertical-offset="952">
-              <caret line="33" column="72" selection-start-line="33" selection-start-column="72" selection-end-line="33" selection-end-column="72" />
+            <state vertical-scroll-proportion="0.7798165" vertical-offset="51" max-vertical-offset="952">
+              <caret line="33" column="254" selection-start-line="33" selection-start-column="254" selection-end-line="33" selection-end-column="254" />
               <folding />
             </state>
           </provider>
@@ -816,8 +815,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_includes/modal4.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.47400612" vertical-offset="251" max-vertical-offset="952">
-          <caret line="33" column="72" selection-start-line="33" selection-start-column="72" selection-end-line="33" selection-end-column="72" />
+        <state vertical-scroll-proportion="0.7798165" vertical-offset="51" max-vertical-offset="952">
+          <caret line="33" column="254" selection-start-line="33" selection-start-column="254" selection-end-line="33" selection-end-column="254" />
           <folding />
         </state>
       </provider>
