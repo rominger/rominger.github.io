@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="73d136e2-ce7e-45f1-b24f-57eb077686a1" name="Default" comment="" />
+    <list default="true" id="73d136e2-ce7e-45f1-b24f-57eb077686a1" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="rominger.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -37,8 +39,8 @@
       <file leaf-file-name="modal2.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_includes/modal2.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.33226836" vertical-offset="608" max-vertical-offset="1683">
-              <caret line="48" column="56" selection-start-line="48" selection-start-column="56" selection-end-line="48" selection-end-column="56" />
+            <state vertical-scroll-proportion="0.1880734" vertical-offset="608" max-vertical-offset="1683">
+              <caret line="43" column="28" selection-start-line="43" selection-start-column="28" selection-end-line="43" selection-end-column="28" />
               <folding />
             </state>
           </provider>
@@ -57,7 +59,7 @@
       <file leaf-file-name="modal3.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_includes/modal3.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-3.851852" vertical-offset="1084" max-vertical-offset="1717">
+            <state vertical-scroll-proportion="0.0" vertical-offset="1084" max-vertical-offset="1717">
               <caret line="76" column="181" selection-start-line="76" selection-start-column="179" selection-end-line="76" selection-end-column="181" />
               <folding />
             </state>
@@ -67,7 +69,7 @@
       <file leaf-file-name="modal4.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_includes/modal4.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-3.851852" vertical-offset="115" max-vertical-offset="952">
+            <state vertical-scroll-proportion="0.0" vertical-offset="115" max-vertical-offset="952">
               <caret line="19" column="256" selection-start-line="19" selection-start-column="254" selection-end-line="19" selection-end-column="256" />
               <folding />
             </state>
@@ -77,7 +79,7 @@
       <file leaf-file-name="modal5.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_includes/modal5.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-4.351852" vertical-offset="105" max-vertical-offset="731">
+            <state vertical-scroll-proportion="0.0" vertical-offset="105" max-vertical-offset="731">
               <caret line="20" column="253" selection-start-line="20" selection-start-column="251" selection-end-line="20" selection-end-column="253" />
               <folding />
             </state>
@@ -97,7 +99,7 @@
       <file leaf-file-name="js.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_includes/js.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-13.076923" vertical-offset="0" max-vertical-offset="595">
+            <state vertical-scroll-proportion="0.0" vertical-offset="340" max-vertical-offset="595">
               <caret line="20" column="21" selection-start-line="20" selection-start-column="21" selection-end-line="20" selection-end-column="21" />
               <folding />
             </state>
@@ -107,7 +109,7 @@
       <file leaf-file-name="modal1.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_includes/modal1.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-3.851852" vertical-offset="421" max-vertical-offset="2261">
+            <state vertical-scroll-proportion="0.0" vertical-offset="421" max-vertical-offset="2261">
               <caret line="37" column="108" selection-start-line="37" selection-start-column="108" selection-end-line="37" selection-end-column="108" />
               <folding />
             </state>
@@ -180,6 +182,7 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -336,7 +339,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -401,7 +403,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="826" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2496474" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -735,7 +737,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="680">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -773,7 +774,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_includes/js.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-13.076923" vertical-offset="0" max-vertical-offset="595">
+        <state vertical-scroll-proportion="0.0" vertical-offset="340" max-vertical-offset="595">
           <caret line="20" column="21" selection-start-line="20" selection-start-column="21" selection-end-line="20" selection-end-column="21" />
           <folding />
         </state>
@@ -781,7 +782,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_includes/modal3.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-3.851852" vertical-offset="1084" max-vertical-offset="1717">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1084" max-vertical-offset="1717">
           <caret line="76" column="181" selection-start-line="76" selection-start-column="179" selection-end-line="76" selection-end-column="181" />
           <folding />
         </state>
@@ -789,7 +790,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_includes/modal4.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-3.851852" vertical-offset="115" max-vertical-offset="952">
+        <state vertical-scroll-proportion="0.0" vertical-offset="115" max-vertical-offset="952">
           <caret line="19" column="256" selection-start-line="19" selection-start-column="254" selection-end-line="19" selection-end-column="256" />
           <folding />
         </state>
@@ -797,7 +798,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_includes/modal5.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-4.351852" vertical-offset="105" max-vertical-offset="731">
+        <state vertical-scroll-proportion="0.0" vertical-offset="105" max-vertical-offset="731">
           <caret line="20" column="253" selection-start-line="20" selection-start-column="251" selection-end-line="20" selection-end-column="253" />
           <folding />
         </state>
@@ -805,7 +806,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_includes/modal1.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-3.851852" vertical-offset="421" max-vertical-offset="2261">
+        <state vertical-scroll-proportion="0.0" vertical-offset="421" max-vertical-offset="2261">
           <caret line="37" column="108" selection-start-line="37" selection-start-column="108" selection-end-line="37" selection-end-column="108" />
           <folding />
         </state>
@@ -813,8 +814,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_includes/modal2.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.33226836" vertical-offset="608" max-vertical-offset="1683">
-          <caret line="48" column="56" selection-start-line="48" selection-start-column="56" selection-end-line="48" selection-end-column="56" />
+        <state vertical-scroll-proportion="0.1880734" vertical-offset="608" max-vertical-offset="1683">
+          <caret line="43" column="28" selection-start-line="43" selection-start-column="28" selection-end-line="43" selection-end-column="28" />
           <folding />
         </state>
       </provider>
