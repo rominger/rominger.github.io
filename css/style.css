@@ -1615,6 +1615,10 @@ span.roll {
   	height: 100%;
  }
 
+.modal-body{
+	padding-top: 0.5em;
+}
+
 .modal-container{	
 	margin-left: 1em;
 	margin-right: 1em;
