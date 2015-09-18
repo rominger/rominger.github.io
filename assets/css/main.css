@@ -177,10 +177,10 @@
 /* BG */
 
 	#bg {
-		-moz-animation: bg 100s linear infinite;
-		-webkit-animation: bg 100s linear infinite;
-		-ms-animation: bg 10s linear infinite;
-		animation: bg 100s linear infinite;
+		-moz-animation: bg 180s linear infinite;
+		-webkit-animation: bg 180s linear infinite;
+		-ms-animation: bg 180s linear infinite;
+		animation: bg 180s linear infinite;
 		-moz-backface-visibility: hidden;
 		-webkit-backface-visibility: hidden;
 		-ms-backface-visibility: hidden;
@@ -268,8 +268,8 @@
 	#bg {
 		/*background-size: 2250px 100%;
 		width: 6750px;*/
-		background-size: 73% 100%;
-		width: 4200px;
+		background-size: 54% 100%;
+		width: 5700px;
 	}
 
 /* Overlay */
@@ -700,24 +700,28 @@
 		#bg {
 		/*background-size: 2250px 100%;
 		width: 6750px;*/
-		background-size: 66% 100%;
-		width: 4200px;
-		-moz-animation: bg 125s linear infinite;
-		-webkit-animation: bg 125s linear infinite;
-		-ms-animation: bg 125s linear infinite;
-		animation: bg 125s linear infinite;
+		background-size: 54% 100%;
+		width: 5100px;
+		-moz-animation: bg 204s linear infinite;
+		-webkit-animation: bg 204s linear infinite;
+		-ms-animation: bg 204s linear infinite;
+		animation: bg 204s linear infinite;
+		animation-direction: alternate;
+		left: 0;
 		}}
 
 	@media screen and (max-width: 2048px){
 		#bg {
 		/*background-size: 2250px 100%;
 		width: 6750px;*/
-		background-size: 53% 100%;
-		width: 4200px;
-		-moz-animation: bg 150s linear infinite;
-		-webkit-animation: bg 150s linear infinite;
-		-ms-animation: bg 150s linear infinite;
-		animation: bg 150s linear infinite;
+		background-size: 55% 100%;
+		width: 4100px;
+		-moz-animation: bg 244s linear infinite;
+		-webkit-animation: bg 244s linear infinite;
+		-ms-animation: bg 244s linear infinite;
+		animation: bg 244s linear infinite;
+		animation-direction: alternate;
+		left: 0;
 		}
 	}
 
@@ -726,12 +730,14 @@
 		#bg {
 		/*background-size: 2250px 100%;
 		width: 6750px;*/
-		background-size: 50% 100%;
-		width: 4200px;
-		-moz-animation: bg 250s linear infinite;
-		-webkit-animation: bg 250s linear infinite;
-		-ms-animation: bg 250s linear infinite;
-		animation: bg 250s linear infinite;
+		background-size: 54% 100%;
+		width: 3900px;
+		-moz-animation: bg 252s linear infinite;
+		-webkit-animation: bg 252s linear infinite;
+		-ms-animation: bg 252s linear infinite;
+		animation: bg 252s linear infinite;
+		animation-direction: alternate;
+		left: 0;
 	}
 	}
 
@@ -742,12 +748,14 @@
 		#bg {
 				/*background-size: 2250px 100%;
 				width: 6750px;*/
-				background-size: 50% 100%;
-				width: 4200px;
-				-moz-animation: bg 450s linear infinite;
-				-webkit-animation: bg 450s linear infinite;
-				-ms-animation: bg 450s linear infinite;
-				animation: bg 450s linear infinite;
+				background-size: 55% 100%;
+				width: 3400px;
+				-moz-animation: bg 272s linear infinite;
+				-webkit-animation: bg 272s linear infinite;
+				-ms-animation: bg 272s linear infinite;
+				animation: bg 272s linear infinite;
+				animation-direction: alternate;
+				left: 0;
 			}
 
 	
@@ -757,74 +765,6 @@
 			body, input, select, textarea {
 				font-size: 13pt;
 			}
-
-		/* BG */
-
-			@-moz-keyframes bg {
-				0% {
-					-moz-transform: translate3d(0,0,0);
-					-webkit-transform: translate3d(0,0,0);
-					-ms-transform: translate3d(0,0,0);
-					transform: translate3d(0,0,0);
-				}
-
-				100% {
-					-moz-transform: translate3d(-410px,0,0);
-					-webkit-transform: translate3d(-410px,0,0);
-					-ms-transform: translate3d(-410px,0,0);
-					transform: translate3d(-410px,0,0);
-				}
-
-			}
-
-		@-webkit-keyframes bg {
-			0% {
-				-moz-transform: translate3d(0,0,0);
-				-webkit-transform: translate3d(0,0,0);
-				-ms-transform: translate3d(0,0,0);
-				transform: translate3d(0,0,0);
-			}
-
-			100% {
-				-moz-transform: translate3d(-410px,0,0);
-				-webkit-transform: translate3d(-410px,0,0);
-				-ms-transform: translate3d(-410px,0,0);
-				transform: translate3d(-410px,0,0);
-			}
-		}
-
-		@-ms-keyframes bg {
-			0% {
-				-moz-transform: translate3d(0,0,0);
-				-webkit-transform: translate3d(0,0,0);
-				-ms-transform: translate3d(0,0,0);
-				transform: translate3d(0,0,0);
-			}
-
-			100% {
-				-moz-transform: translate3d(-410px,0,0);
-				-webkit-transform: translate3d(-410px,0,0);
-				-ms-transform: translate3d(-410px,0,0);
-				transform: translate3d(-410px,0,0);
-			}
-		}
-
-		@keyframes bg {
-			0% {
-				-moz-transform: translate3d(0,0,0);
-				-webkit-transform: translate3d(0,0,0);
-				-ms-transform: translate3d(0,0,0);
-				transform: translate3d(0,0,0);
-			}
-
-			100% {
-				-moz-transform: translate3d(-410px,0,0);
-				-webkit-transform: translate3d(-410px,0,0);
-				-ms-transform: translate3d(-410px,0,0);
-				transform: translate3d(-410px,0,0);
-			}
-		}
-
 		/*#bg {
 			background-size: 1500px 100%;
 			width: 4500px;
@@ -836,12 +776,14 @@
 #bg {
 			/*background-size: 2250px 100%;
 			width: 6750px;*/
-			background-size: 50% 100%;
-			width: 3750px;
-			-moz-animation: bg 500s linear infinite;
-			-webkit-animation: bg 500s linear infinite;
-			-ms-animation: bg 500s linear infinite;
-			animation: bg 500s linear infinite;
+			background-size: 54% 100%;
+			width: 3000px;
+			-moz-animation: bg 288s linear infinite;
+			-webkit-animation: bg 288s linear infinite;
+			-ms-animation: bg 288s linear infinite;
+			animation: bg 288s linear infinite;
+			animation-direction: alternate;
+			left: 0;
 		}}
 
 /* Normal */
@@ -853,12 +795,14 @@
 		#bg {
 			/*background-size: 2250px 100%;
 			width: 6750px;*/
-			background-size: 45% 100%;
-			width: 3750px;
-			-moz-animation: bg 550s linear infinite;
-			-webkit-animation: bg 550s linear infinite;
-			-ms-animation: bg 550s linear infinite;
-			animation: bg 550s linear infinite;
+			background-size: 56.5% 100%;
+			width: 2600px;
+			-moz-animation: bg 304s linear infinite;
+			-webkit-animation: bg 304s linear infinite;
+			-ms-animation: bg 304s linear infinite;
+			animation: bg 304s linear infinite;
+			animation-direction: alternate;
+			left: 0
 		}
 
 		body, input, select, textarea {
@@ -871,12 +815,14 @@
 	#bg {
 		/*background-size: 2250px 100%;
 		width: 6750px;*/
-		background-size: 38.5% 100%;
-		width: 3750px;
-		-moz-animation: bg 650s linear infinite;
-		-webkit-animation: bg 650s linear infinite;
-		-ms-animation: bg 650s linear infinite;
-		animation: bg 650s linear infinite;
+		background-size: 57.5% 100%;
+		width: 2100px;
+		-moz-animation: bg 324s linear infinite;
+		-webkit-animation: bg 324s linear infinite;
+		-ms-animation: bg 324s linear infinite;
+		animation: bg 324s linear infinite;
+		animation-direction: alternate;
+		left: 0
 	}
 
 	body, input, select, textarea {
