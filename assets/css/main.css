@@ -95,6 +95,10 @@
     color: #9449b3;
 }
 
+.uni{
+    font-weight: 100;
+}
+
 /* Icon */
 
 	.icon {
@@ -565,17 +569,17 @@
 			}
 
 				#header nav li:nth-child(1) {
-					-moz-animation-delay: 1.5s;
-					-webkit-animation-delay: 1.5s;
-					-ms-animation-delay: 1.5s;
-					animation-delay: 1.5s;
+					-moz-animation-delay: 1.75s;
+					-webkit-animation-delay: 1.75s;
+					-ms-animation-delay: 1.75s;
+					animation-delay: 1.75s;
 				}
 
 				#header nav li:nth-child(2) {
-					-moz-animation-delay: 2.75s;
-					-webkit-animation-delay: 2.75s;
-					-ms-animation-delay: 2.75s;
-					animation-delay: 2.75s;
+					-moz-animation-delay: 2s;
+					-webkit-animation-delay: 2s;
+					-ms-animation-delay: 2s;
+					animation-delay: 2s;
 				}
 
 				#header nav li:nth-child(3) {
