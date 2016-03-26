@@ -55,7 +55,7 @@
 /* Basic */
 
 	body, input, select, textarea {
-		color: #fff;
+		color: #2D004E;
 		font-family: 'Roboto', sans-serif;
 		font-size: 15pt;
 		font-weight: 100 !important;
@@ -91,13 +91,16 @@
 		}
 
 /* Custom */
-
+.smal{
+    color: #9449b3;
+}
 
 /* Icon */
 
 	.icon {
 		text-decoration: none;
 		position: relative;
+        color: #2D004E;
 	}
 
 		.icon:before {
@@ -171,7 +174,8 @@
 /* BG */
 
 	#bg {
-		-moz-animation: bg 180s linear infinite;
+        
+		/* -moz-animation: bg 180s linear infinite;
 		-webkit-animation: bg 180s linear infinite;
 		-ms-animation: bg 180s linear infinite;
 		animation: bg 180s linear infinite;
@@ -183,9 +187,10 @@
 		-webkit-transform: translate3d(0,0,0);
 		-ms-transform: translate3d(0,0,0);
 		transform: translate3d(0,0,0);
-	/* Set your background with this */
+	Set your background with this 
 		animation-direction: alternate;
-		background: #000 url("images/bg_new.jpg") center left;
+		background: #000 url("images/bg_new.jpg") center left;*/
+        background: #fff;
 		background-repeat: no-repeat;
 		height: 100%;
 		min-height: 100%;
@@ -195,7 +200,7 @@
 		top: 0;
 	}
 
-	@-moz-keyframes bg {
+	/*@-moz-keyframes bg {
 		0% {
 			-moz-transform: translate3d(0,0,0);
 			-webkit-transform: translate3d(0,0,0);
@@ -257,7 +262,7 @@
 			-ms-transform: translate3d(-180px,0,0);
 			transform: translate3d(-180px,0,0);
 		}
-	}
+	}*/
 
 	#bg {
 		/*background-size: 2250px 100%;
@@ -520,6 +525,8 @@
 			font-weight: 100;
 			letter-spacing: -0.035em;
 			line-height: 1em;
+            color: #2D004E;
+            opacity: 0.8;
 		}
 
 		#header p {
@@ -527,6 +534,8 @@
 			margin: 0.75em 0 0.25em 0;
 			opacity: 0.95;
 			font-weight: 300;
+            color: #2D004E;
+            opacity: 0.8;
 		}
 
 		#header nav {
@@ -638,7 +647,7 @@
 					-ms-transition: all 0.1s ease-in-out;
 					transition: all 0.1s ease-in-out;
 					border-radius: 100%;
-					border: solid 1px #fff;
+					border: solid 1px #2D004E;
 					display: block;
 					font-size: 1.75em;
 					height: 2.5em;
@@ -654,7 +663,7 @@
 				}
 
 					#header nav a:hover:before {
-						background-color: rgba(255, 255, 255, 0.175);
+						background-color: #2D004E;
 						color: #fff;
 					}
 
@@ -664,7 +673,7 @@
 				}
 
 					#header nav a:active:before {
-						background-color: rgba(255, 255, 255, 0.35);
+						background-color: #2D004E;
 						color: #fff;
 					}
 
@@ -675,10 +684,10 @@
 /* Footer */
 
 	#footer {
-		background-image: -moz-linear-gradient(top, rgba(0,0,0,0), rgba(0,0,0,0.5) 75%);
+		/*background-image: -moz-linear-gradient(top, rgba(0,0,0,0), rgba(0,0,0,0.5) 75%);
 		background-image: -webkit-linear-gradient(top, rgba(0,0,0,0), rgba(0,0,0,0.5) 75%);
 		background-image: -ms-linear-gradient(top, rgba(0,0,0,0), rgba(0,0,0,0.5) 75%);
-		background-image: linear-gradient(top, rgba(0,0,0,0), rgba(0,0,0,0.5) 75%);
+		background-image: linear-gradient(top, rgba(0,0,0,0), rgba(0,0,0,0.5) 75%);*/
 		bottom: 0;
 		cursor: default;
 		height: 6em;
@@ -696,11 +705,11 @@
 		width: 6750px;*/
 		background-size: 54% 100%;
 		width: 5100px;
-		-moz-animation: bg 204s linear infinite;
+		/*-moz-animation: bg 204s linear infinite;
 		-webkit-animation: bg 204s linear infinite;
 		-ms-animation: bg 204s linear infinite;
 		animation: bg 204s linear infinite;
-		animation-direction: alternate;
+		animation-direction: alternate;*/
 		left: 0;		
 		}
 		#header h1 {
@@ -723,11 +732,11 @@
 		width: 6750px;*/
 		background-size: 55% 100%;
 		width: 4100px;
-		-moz-animation: bg 244s linear infinite;
+		/*-moz-animation: bg 244s linear infinite;
 		-webkit-animation: bg 244s linear infinite;
 		-ms-animation: bg 244s linear infinite;
 		animation: bg 244s linear infinite;
-		animation-direction: alternate;
+		animation-direction: alternate;*/
 		left: 0;
 		}
 		#header h1 {
@@ -752,11 +761,11 @@
 		width: 6750px;*/
 		background-size: 54% 100%;
 		width: 3900px;
-		-moz-animation: bg 252s linear infinite;
+		/*-moz-animation: bg 252s linear infinite;
 		-webkit-animation: bg 252s linear infinite;
 		-ms-animation: bg 252s linear infinite;
 		animation: bg 252s linear infinite;
-		animation-direction: alternate;
+		animation-direction: alternate;*/
 		left: 0;
 	}
 	#header h1 {
@@ -783,11 +792,11 @@
 				width: 6750px;*/
 				background-size: 55% 100%;
 				width: 3400px;
-				-moz-animation: bg 272s linear infinite;
+				/*-moz-animation: bg 272s linear infinite;
 				-webkit-animation: bg 272s linear infinite;
 				-ms-animation: bg 272s linear infinite;
 				animation: bg 272s linear infinite;
-				animation-direction: alternate;
+				animation-direction: alternate;*/
 				left: 0;
 			}
 		#header h1 {
@@ -823,11 +832,11 @@
 			width: 6750px;*/
 			background-size: 54% 100%;
 			width: 3000px;
-			-moz-animation: bg 288s linear infinite;
+			/*-moz-animation: bg 288s linear infinite;
 			-webkit-animation: bg 288s linear infinite;
 			-ms-animation: bg 288s linear infinite;
 			animation: bg 288s linear infinite;
-			animation-direction: alternate;
+			animation-direction: alternate;*/
 			left: 0;
 		}
 		#header h1 {
@@ -855,11 +864,11 @@
 			width: 6750px;*/
 			background-size: 56.5% 100%;
 			width: 2600px;
-			-moz-animation: bg 304s linear infinite;
+			/*-moz-animation: bg 304s linear infinite;
 			-webkit-animation: bg 304s linear infinite;
 			-ms-animation: bg 304s linear infinite;
 			animation: bg 304s linear infinite;
-			animation-direction: alternate;
+			animation-direction: alternate;*/
 			left: 0
 		}
 		#header h1 {
@@ -887,11 +896,11 @@
 		width: 6750px;*/
 		background-size: 57.5% 100%;
 		width: 2100px;
-		-moz-animation: bg 324s linear infinite;
+		/*-moz-animation: bg 324s linear infinite;
 		-webkit-animation: bg 324s linear infinite;
 		-ms-animation: bg 324s linear infinite;
 		animation: bg 324s linear infinite;
-		animation-direction: alternate;
+		animation-direction: alternate;*/
 		left: 0
 	}
 
@@ -917,11 +926,11 @@
 			width: 6750px;*/
 			background-size: 62% 100%;
 			width: 1600px;
-			-moz-animation: none;
+			/*-moz-animation: none;
 			-webkit-animation: none;
 			-ms-animation: none;
 			animation: none;
-			animation-direction: alternate;
+			animation-direction: alternate;*/
 			left: -20%
 		}/* Header */
 
@@ -956,11 +965,11 @@
 			width: 6750px;*/
 			background-size: 75% 100%;
 			width: 1000px;
-			-moz-animation: none;
+			/*-moz-animation: none;
 			-webkit-animation: none;
 			-ms-animation: none;
 			animation: none;
-			animation-direction: alternate;
+			animation-direction: alternate;*/
 			left: -20%
 		}
 		#header h1 {
