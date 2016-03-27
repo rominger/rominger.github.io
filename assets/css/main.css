@@ -95,13 +95,9 @@
 		}
 
 /* Custom */
-.smal{
+#smal{
     color: #9449b3;
     opacity: 1;
-}
-
-.uni{
-    font-weight: 100;
 }
 
 .copyright{
@@ -480,7 +476,11 @@
             margin-top: 40px;
             /*margin-bottom: 18px;*/
             color: #2D004E;
-            opacity: 0.8;
+            
+		}
+        
+         #header #position {
+			opacity: 0.8;
 		}
         
         #header #study {
@@ -674,8 +674,6 @@
 			line-height: 1em;
             margin-top: 338px;
             margin-bottom: 32px;
-            color: #2D004E;
-            opacity: 0.8;
 		}
 
 		#header p {
@@ -684,8 +682,6 @@
             letter-spacing: -0.035em;
             line-height: 1em;
             margin-top: 70px;
-            color: #2D004E;
-            opacity: 0.8;
 		}
         
         #header #study {
@@ -695,8 +691,6 @@
             line-height: 1.7em;
             margin-top: 12px;
             margin-bottom: 32px;
-            color: #2D004E;
-            opacity: 0.8;
 		}
 
 		#header nav {
@@ -746,8 +740,6 @@
 			line-height: 1em;
             margin-top: 254px;
             margin-bottom: 24px;
-            color: #2D004E;
-            opacity: 0.8;
 		}
 
 		#header p {
@@ -756,8 +748,6 @@
             letter-spacing: -0.035em;
             line-height: 1em;
             margin-top: 54px;
-            color: #2D004E;
-            opacity: 0.8;
 		}
         
         #header #study {
@@ -767,8 +757,6 @@
             line-height: 2,3625em;
             margin-top: 8px;
             margin-bottom: 24px;
-            color: #2D004E;
-            opacity: 0.8;
 		}
 
 		#header nav {
@@ -817,8 +805,6 @@
 			line-height: 1em;
             margin-top: 192px;
             margin-bottom: 18px;
-            color: #2D004E;
-            opacity: 0.8;
 		}
 
 		#header p {
@@ -827,9 +813,6 @@
             letter-spacing: -0.035em;
             line-height: 1em;
             margin-top: 40px;
-            /*margin-bottom: 18px;*/
-            color: #2D004E;
-            opacity: 0.8;
 		}
         
         #header #study {
@@ -840,8 +823,6 @@
             /*margin-top: 43px;*/
             margin-top: 6px;
             margin-bottom: 18px;
-            color: #2D004E;
-            opacity: 0.8;
 		}
 
 		#header nav {
@@ -896,8 +877,6 @@
 			line-height: 1em;
             margin-top: 96px;
             margin-bottom: 9px;
-            color: #2D004E;
-            opacity: 0.8;
 		}
 
 		#header p {
@@ -906,9 +885,6 @@
             letter-spacing: -0.035em;
             line-height: 1em;
             margin-top: 20px;
-            /*margin-bottom: 18px;*/
-            color: #2D004E;
-            opacity: 0.8;
 		}
         
         #header #study {
@@ -919,8 +895,6 @@
             /*margin-top: 43px;*/
             margin-top: 3px;
             margin-bottom: 9px;
-            color: #2D004E;
-            opacity: 0.8;
 		}
 
 		#header nav {
