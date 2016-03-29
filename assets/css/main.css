@@ -622,25 +622,30 @@
 					text-align: center;
 					top: 0;
 					width: 2.5em;
+                    opacity: 0.8;
 				}
 
 				#header nav a:hover {
 					font-size: 1.1em;
+                    opacity: 1;
 				}
 
 					#header nav a:hover:before {
 						/*background-color: #2D004E;*/
 						color: #fff;
+                        opacity: 1;
 					}
 
 				#header nav a:active {
 					font-size: 0.95em;
 					background: none;
+                    opacity: 1;
 				}
 
 					#header nav a:active:before {
 						/*background-color: #2D004E;*/
 						color: #fff;
+                        opacity: 1;
 					}
 
 				#header nav a span {
