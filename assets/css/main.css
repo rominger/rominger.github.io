@@ -614,7 +614,6 @@
 					-ms-transition: all 0.1s ease-in-out;
 					transition: all 0.1s ease-in-out;
 					border-radius: 100%;
-					/*border: solid .5px #2D004E;*/
 					display: block;
 					font-size: 1.75em;
 					height: 2.5em;
@@ -715,7 +714,7 @@
             
             #header nav a:before {
 					border-radius: 100%;
-					border: solid .5px #fff;
+					border: solid 1px #fff;
 					display: block;
 					font-size: 2.7em;
 					height: 3em;
@@ -782,7 +781,7 @@
             
             #header nav a:before {
 					border-radius: 100%;
-					border: solid .5px #fff;
+					border: solid 1px #fff;
 					display: block;
 					font-size: 2em;
 					height: 3em;
@@ -853,7 +852,7 @@
         
         #header nav a:before {
 					border-radius: 100%;
-					border: solid .5px #fff;
+					border: solid 1px #fff;
 					display: block;
 					font-size: 1.75em;
 					height: 2.5em;
@@ -926,7 +925,7 @@
         
         #header nav a:before {
 					border-radius: 100%;
-					border: solid .5px #fff;
+					border: solid 1px #fff;
 					display: block;
 					font-size: 0.875em;
 					height: 1.75em;
