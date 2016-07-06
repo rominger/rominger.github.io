@@ -147,7 +147,7 @@
 
 		a:hover {
 			border-bottom-color: transparent;
-			color: #D914A3 !important;
+			color: #ff3264 !important;
 		}
 
 	strong, b {
@@ -299,7 +299,7 @@
 	}
 
 	header.major h2 {
-		color: #D914A3;
+		color: #ff3264;
 		font-size: 3.5em;
 	}
 
