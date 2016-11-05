@@ -1,0 +1,345 @@
+body {
+  font-family: "Open Sans", Arial, sans-serif;
+  line-height: 1.6;
+  font-size: 16px;
+  background: #fff;
+  color: #848484;
+  font-weight: 300;
+  overflow-x: hidden;
+}
+body.fh5co-offcanvas {
+  overflow: hidden;
+}
+
+a {
+  color: #66D37E;
+  -webkit-transition: 0.5s;
+  -o-transition: 0.5s;
+  transition: 0.5s;
+}
+a:hover {
+  text-decoration: none !important;
+  color: #66D37E !important;
+}
+
+p, ul, ol {
+  margin-bottom: 1.5em;
+  font-size: 16px;
+  color: #848484;
+  font-family: "Open Sans", Arial, sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  color: #5a5a5a;
+  font-family: "Open Sans", Arial, sans-serif;
+  font-weight: 400;
+  margin: 0 0 30px 0;
+}
+
+figure {
+  margin-bottom: 2em;
+}
+
+::-webkit-selection {
+  color: #fcfcfc;
+  background: #66D37E;
+}
+
+::-moz-selection {
+  color: #fcfcfc;
+  background: #66D37E;
+}
+
+::selection {
+  color: #fcfcfc;
+  background: #66D37E;
+}
+
+#fh5co-header {
+  position: relative;
+  margin-bottom: 0;
+  z-index: 9999999;
+}
+
+.fh5co-cover,
+.fh5co-hero {
+  position: relative;
+  height: 100vh !important;
+}
+@media screen and (max-width: 768px) {
+  .fh5co-cover,
+  .fh5co-hero {
+    height: 100vh !important;
+  }
+}
+.fh5co-cover.fh5co-hero-2,
+.fh5co-hero.fh5co-hero-2 {
+  height: 600px;
+}
+.fh5co-cover.fh5co-hero-2 .fh5co-overlay,
+.fh5co-hero.fh5co-hero-2 .fh5co-overlay {
+  position: absolute !important;
+  width: 100%;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  z-index: 1;
+  background: rgba(4, 4, 10, 1);
+}
+
+.fh5co-overlay {
+  position: absolute !important;
+  width: 100%;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  z-index: 1;
+  background: rgba(4, 4, 10, 1);
+}
+
+.fh5co-cover {
+  background-size: cover;
+  position: relative;
+}
+@media screen and (max-width: 768px) {
+  .fh5co-cover {
+    heifght: inherit;
+    padding: 3em 0;
+  }
+}
+.fh5co-cover .btn {
+  padding: 1em 5em;
+  opacity: .9;
+}
+.fh5co-cover.fh5co-cover_2 {
+  height: 600px;
+}
+@media screen and (max-width: 768px) {
+  .fh5co-cover.fh5co-cover_2 {
+    heifght: inherit;
+    padding: 3em 0;
+  }
+}
+.fh5co-cover .desc {
+  top: 50%;
+  position: absolute;
+  width: 100%;
+  margin-top: -80px;
+  z-index: 2;
+  color: #fff;
+}
+@media screen and (max-width: 768px) {
+  .fh5co-cover .desc {
+    padding-left: 15px;
+    padding-right: 15px;
+  }
+}
+.fh5co-cover .desc h2 {
+  color: #fff;
+  text-transform: uppercase;
+  font-size: 128px;
+  margin-bottom: 10px;
+  font-weight: 300 !important;
+}
+.fh5co-cover .desc h2 strong {
+  font-weight: 700;
+}
+@media screen and (max-width: 768px) {
+  .fh5co-cover .desc h2 {
+    font-size: 40px;
+  }
+}
+.fh5co-cover .desc span {
+  display: block;
+  margin-bottom: 30px;
+  font-size: 28px;
+  letter-spacing: 1px;
+}
+.fh5co-cover .desc span a {
+  color: #fff;
+}
+.fh5co-cover .desc span a:hover, .fh5co-cover .desc span a:focus {
+  color: #fff !important;
+}
+.fh5co-cover .desc span a:hover.btn, .fh5co-cover .desc span a:focus.btn {
+  border: 2px solid #fff !important;
+  background: transparent !important;
+}
+.fh5co-cover .desc span a.fh5co-site-name {
+  padding-bottom: 2px;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.7);
+}
+
+.site-header.has-image #primary-menu .sub-menu {
+  border-color: #ebebeb;
+  -webkit-box-shadow: 0 5px 15px 4px rgba(0, 0, 0, 0.09);
+  -moz-box-shadow: 0 5px 15px 4px rgba(0, 0, 0, 0.09);
+  -ms-box-shadow: 0 5px 15px 4px rgba(0, 0, 0, 0.09);
+  -o-box-shadow: 0 5px 15px 4px rgba(0, 0, 0, 0.09);
+  box-shadow: 0 5px 15px 4px rgba(0, 0, 0, 0.09);
+}
+.site-header.has-image #primary-menu .sub-menu:before {
+  display: none;
+}
+
+.heading-section {
+  padding-bottom: 1em;
+  margin-bottom: 5em;
+}
+.heading-section:after {
+  position: absolute;
+  content: '';
+  bottom: 0;
+  left: 50%;
+  width: 100px;
+  margin-left: -50px;
+  height: 2px;
+  background: #66D37E;
+}
+.heading-section h3 {
+  font-size: 40px;
+  font-weight: 300;
+  position: relative;
+}
+.heading-section p {
+  font-size: 20px;
+}
+
+#footer {
+  background: #ffffff;
+  padding: 60px 0 40px;
+}
+#footer p {
+  color: rgba(4, 4, 10, 0.6);
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 1.5em;
+}
+#footer p a {
+  color: rgba(4, 4, 10, 1);
+}
+#footer p a:hover, #footer p a:active, #footer p a:focus {
+  color: #66D37E !important;
+}
+
+.js .animate-box {
+  opacity: 0;
+}
+
+#fh5co-wrapper {
+  overflow-x: hidden;
+  position: relative;
+}
+
+.fh5co-offcanvas {
+  overflow: hidden;
+}
+.fh5co-offcanvas #fh5co-wrapper {
+  overflow: hidden !important;
+}
+
+#fh5co-page {
+  position: relative;
+  -webkit-transition: 0.5s;
+  -o-transition: 0.5s;
+  transition: 0.5s;
+}
+.fh5co-offcanvas #fh5co-page {
+  -moz-transform: translateX(-240px);
+  -webkit-transform: translateX(-240px);
+  -ms-transform: translateX(-240px);
+  -o-transform: translateX(-240px);
+  transform: translateX(-240px);
+}
+
+@media screen and (max-width: 480px) {
+  .col-xxs-12 {
+    float: none;
+    width: 100%;
+  }
+}
+
+.row-bottom-padded-lg {
+  padding-bottom: 7em;
+}
+@media screen and (max-width: 768px) {
+  .row-bottom-padded-lg {
+    padding-bottom: 2em;
+  }
+}
+
+.row-top-padded-lg {
+  padding-top: 7em;
+}
+@media screen and (max-width: 768px) {
+  .row-top-padded-lg {
+    padding-top: 2em;
+  }
+}
+
+.row-bottom-padded-md {
+  padding-bottom: 4em;
+}
+@media screen and (max-width: 768px) {
+  .row-bottom-padded-md {
+    padding-bottom: 2em;
+  }
+}
+
+.row-top-padded-md {
+  padding-top: 4em;
+}
+@media screen and (max-width: 768px) {
+  .row-top-padded-md {
+    padding-top: 2em;
+  }
+}
+
+.row-bottom-padded-sm {
+  padding-bottom: 2em;
+}
+@media screen and (max-width: 768px) {
+  .row-bottom-padded-sm {
+    padding-bottom: 2em;
+  }
+}
+
+.row-top-padded-sm {
+  padding-top: 2em;
+}
+@media screen and (max-width: 768px) {
+  .row-top-padded-sm {
+    padding-top: 2em;
+  }
+}
+
+.border-bottom {
+  border-bottom: 1px solid rgba(0, 0, 0, 0.06);
+}
+
+.lead {
+  line-height: 1.8;
+}
+
+.no-js #loader {
+  display: none;
+}
+
+.js #loader {
+  display: block;
+  position: absolute;
+  left: 100px;
+  top: 0;
+}
+
+.fh5co-loader {
+  position: fixed;
+  left: 0px;
+  top: 0px;
+  width: 100%;
+  height: 100%;
+  z-index: 9999;
+  /*background: url(../images/hourglass.svg) center no-repeat #222222;*/
+}
